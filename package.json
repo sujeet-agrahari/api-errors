@@ -1,0 +1,19 @@
+{
+  "name": "api-errors",
+  "version": "1.0.0",
+  "description": "A zero dependency tiny module to handle HTTP errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-error",
+    "http-error",
+    "express",
+    "nodejs",
+    "express-error-handler",
+    "express-error"
+  ],
+  "author": "Sujeet Agrahari",
+  "license": "MIT"
+}
