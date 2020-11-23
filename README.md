@@ -58,3 +58,17 @@ This is the current API, currently extracted from Koa and subject to change.
 | 415         | UnsupportedMediaTypeError |
 | 422         | UnprocessableEntityError  |
 | 500         | InternalServerError       |
+
+## License
+
+[MIT](LICENSE)
+
+[coveralls-image]: https://badgen.net/coveralls/c/github/jshttp/http-errors/master
+[coveralls-url]: https://coveralls.io/r/jshttp/http-errors?branch=master
+[node-image]: https://badgen.net/npm/node/http-errors
+[node-url]: https://nodejs.org/en/download
+[npm-downloads-image]: https://badgen.net/npm/dm/http-errors
+[npm-url]: https://npmjs.org/package/http-errors
+[npm-version-image]: https://badgen.net/npm/v/http-errors
+[travis-image]: https://badgen.net/travis/jshttp/http-errors/master
+[travis-url]: https://travis-ci.org/jshttp/http-errors
